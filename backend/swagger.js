@@ -18,7 +18,7 @@ const options = {
         description: 'Development server',
       },
       {
-        url: 'https://task-management-app-8t3d.vercel.app',
+        url: 'https://taskmanager-ojep.onrender.com',
         description: 'Production server',
       },
     ],
