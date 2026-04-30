@@ -12,6 +12,7 @@ A full-stack task management application built with Angular 19, Node.js, Express
 - [API Endpoints](#api-endpoints)
 - [Usage](#usage)
 - [License](#license)
+  
 
 ## Features
 
@@ -150,6 +151,3 @@ A full-stack task management application built with Angular 19, Node.js, Express
 5. **Organizations** — Manage organization members (admin/super roles).
 6. **Profile** — View your profile and organization role.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
