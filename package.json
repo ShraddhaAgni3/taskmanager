@@ -4,10 +4,8 @@
   "private": true,
 
   "scripts": {
-    "ng": "ng",
     "build": "ng build",
-    "start": "serve -s dist/task-management-app -l $PORT",
-    "test": "ng test"
+    "start": "npm run build && npx serve -s dist/task-management-app -l $PORT"
   },
 
   "dependencies": {
